@@ -1,0 +1,9 @@
+# Temp Build and Release Folders
+temp/
+temp-debug/
+temp-release/
+
+# Other files and folders
+.settings/
+.ds_store
+
